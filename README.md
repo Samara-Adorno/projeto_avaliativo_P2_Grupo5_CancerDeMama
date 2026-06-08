@@ -44,6 +44,8 @@ streamlit run app.py
 
 O app carrega o modelo salvo em `model/modelo_final.joblib`, monta os campos com as variáveis usadas no treinamento e executa a predição.
 
+Ou abra a versão publicada em `https://diagnosticocancermama.streamlit.app/`
+
 ## Modelo final
 
 O modelo final escolhido foi RandomForest com seleção de features no pipeline. A escolha foi feita com base no desempenho de validação, priorizando F1, recall e AUC.
