@@ -102,18 +102,6 @@ Abra e execute:
 jupyter notebook notebooks/notebook_atualizado.ipynb
 ```
 
-## Deploy
-
-Publicar no Streamlit Community Cloud:
-
-1. Subir este projeto para um repositório público no GitHub.
-2. Entrar em https://share.streamlit.io.
-3. Selecionar o repositório.
-4. Definir `app.py` como arquivo principal.
-5. Conferir se `requirements.txt`, `model/modelo_final.joblib` e `data/dataset.csv` estão no repositório.
-
-Link do app publicado: preencher após o deploy.
-
 ## Limitações
 
 O modelo foi desenvolvido para fins acadêmicos. Ele não substitui avaliação médica, validação clínica, exames complementares ou decisão profissional. Em oncologia, falsos negativos são especialmente críticos porque podem atrasar investigação e tratamento.
