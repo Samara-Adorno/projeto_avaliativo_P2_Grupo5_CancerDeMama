@@ -1,6 +1,6 @@
 # Diagnóstico de Câncer de Mama com Machine Learning
 
-Projeto avaliativo P2 da disciplina **A.I - Machine Learning**.
+Projeto avaliativo P2 da disciplina **Machine Learning**.
 
 ## Integrantes
 
